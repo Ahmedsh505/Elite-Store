@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Elite.Core/Elite.Core.csproj" Id="ff1cb84e-0482-4b48-9fd1-c71a763aabff" />
+  <Project Path="Elite.Infrastructure/Elite.Infrastructure.csproj" Id="d2f0cbf1-634e-49a2-8763-4ee5862444a8" />
+  <Project Path="Elite.Services/Elite.Services.csproj" Id="90aa39f7-0533-4258-a7fb-d7eaccdf0b7c" />
+  <Project Path="Elite/Elite.csproj" />
+</Solution>

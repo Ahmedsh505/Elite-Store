@@ -1,0 +1,6 @@
+@Elite_HostAddress = http://localhost:5000
+
+GET {{Elite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
